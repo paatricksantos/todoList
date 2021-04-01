@@ -200,6 +200,25 @@ select{
   opacity: 0;
 }
 
+@media only screen and (max-width: 500px) {
+  .container{
+    width: 800px;
+    max-width: 92vw;
+    border: 1px solid;
+  }
+  form{
+    width: 100%;
+  }
+  select{
+    font-size: 16px;
+    padding: .4rem;
+  }
+  .select::after{
+    font-size: 33px;
+    padding: 0px;
+  }
+}
+
 @media only screen and (max-width: 420px) {
   .todo .todo-item {
     font-size: 16px;
