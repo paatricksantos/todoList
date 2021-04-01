@@ -8,7 +8,6 @@
 
 ![gif](./assets/img/todoList.gif)
 ![png2](./assets/img/mobileX.png)
-![png3](./assets/img/web.png)
 
 
 ## :rocket: Tecnologias
