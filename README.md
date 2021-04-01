@@ -29,3 +29,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 todoList é um projeto para por em prática conhecimentos adquiridos sobre `Vue.js`, sobre manipulação de DOM, salvando dados no localStorage, eventos
 
+## Demo
+https://todolist-vuejs21.netlify.app/
