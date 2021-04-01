@@ -204,7 +204,6 @@ select{
   .container{
     width: 800px;
     max-width: 92vw;
-    border: 1px solid;
   }
   form{
     width: 100%;
